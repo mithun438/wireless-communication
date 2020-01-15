@@ -1,2 +1,6 @@
-# wireless-communication
-Wireless communication of audio signals between two Arduino micro-controllers using nrf24l01+
+# Arduino Wireless Audio/Data Library 
+  
+This library allows streaming of data/audio from analog inputs via NRF24L01 radio modules
+See the [documentation section](http://tmrh20.github.io/) for more info.
+  
+  
